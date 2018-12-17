@@ -1,1 +1,1 @@
-from get .get_pbq import main
+from .get_pbq import main

@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='get_pbq',
-    version='0.1',
+    version='0.2',
     description='Getting per base quality score from fastq/fastq.gz',
     author='Semar Petrus',
     packages=['get_pbq'],
